@@ -1,0 +1,483 @@
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Database warning - autocannon burst count must be at least 1, setting to 1 (76.2mm ZS-63 AA)LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+tcSensorPlatform::Init - Warning - DB sensor count exceeded recommended limit (Pr 1164 Atlant)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (roland2-site.tvm) animation obj (roland) not found (roland2-site.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+tc3DModel::Load - Model 3d\ffg7.tvm replaced bad or missing material with default
+Database warning - autocannon burst count must be at least 1, setting to 1 (127mm mk 41 AAC)Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Bae Sea Eagle)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (Bae Sea Eagle)
+tcPlatformObject::SetLoadoutCommand - bad item (Bae Sea Eagle)
+Error - tcDatabase::GetObject - not found in nameToKey (Bae Sea Eagle)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (Bae Sea Eagle)
+tcPlatformObject::SetLoadoutCommand - bad item (Bae Sea Eagle)
+Error - tcDatabase::GetObject - not found in nameToKey (Bae Sea Eagle)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (Bae Sea Eagle)
+tcPlatformObject::SetLoadoutCommand - bad item (Bae Sea Eagle)
+Error - tcDatabase::GetObject - not found in nameToKey (Bae Sea Eagle)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (Bae Sea Eagle)
+tcPlatformObject::SetLoadoutCommand - bad item (Bae Sea Eagle)
+Error - tcDatabase::GetObject - not found in nameToKey (Bae Sea Eagle)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (Bae Sea Eagle)
+tcPlatformObject::SetLoadoutCommand - bad item (Bae Sea Eagle)
+Error - tcDatabase::GetObject - not found in nameToKey (Bae Sea Eagle)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (Bae Sea Eagle)
+tcPlatformObject::SetLoadoutCommand - bad item (Bae Sea Eagle)
+Error - tcDatabase::GetObject - not found in nameToKey (Bae Sea Eagle)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (Bae Sea Eagle)
+tcPlatformObject::SetLoadoutCommand - bad item (Bae Sea Eagle)
+Error - tcDatabase::GetObject - not found in nameToKey (Bae Sea Eagle)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (Bae Sea Eagle)
+tcPlatformObject::SetLoadoutCommand - bad item (Bae Sea Eagle)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (roland2-site.tvm) animation obj (roland) not found (roland2-site.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+PJ’»œ»E
+òI’»œ»E
+@W’(Ú»E
+àV’(Ú»E
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+ò≥Z
+‡∂Zÿ“ú
+ò≥Zx“ú
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+tcSensorPlatform::Init - Warning - DB sensor count exceeded recommended limit (Pr 1164 Atlant)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+tc3DModel::Load - Model 3d\tu-142-body.tvm replaced bad or missing material with default
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+ò≥Z|
+ÿ∏Z|
+ò≥Z|
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+ í 
+tc3DModel::Load - Model 3d\Super-Tanker1.tvm replaced bad or missing material with default
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+ê5¨
+tc3DModel::Load - Model 3d\Super-Tanker1.tvm replaced bad or missing material with default
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+à4¨
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+h0¨
+tc3DModel::Load - Model 3d\Container Ship.tvm replaced bad or missing material with default
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+tcSensorPlatform::Init - Warning - DB sensor count exceeded recommended limit (Pr 1164 Atlant)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+tc3DModel::Load - Model 3d\tu-142-body.tvm replaced bad or missing material with default
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+tc3DModel::Load - Model 3d\VLCC.tvm replaced bad or missing material with default
+tcScenarioInterface::SetUnitLauncherItem - AGM-65D not compatible with unit Strike Eagle-4, launcher 5
+tcScenarioInterface::SetUnitLauncherItem - AGM-65D not compatible with unit Strike Eagle-3, launcher 5
+tcScenarioInterface::SetUnitLauncherItem - AGM-65D not compatible with unit Strike Eagle-2, launcher 5
+tcScenarioInterface::SetUnitLauncherItem - AGM-65D not compatible with unit Strike Eagle-1, launcher 5
+Error - tcDatabase::GetObject - not found in nameToKey (27mm HE)
+tcStores::AddItems -- not found (27mm HE)
+Error - tcDatabase::GetObject - not found in nameToKey (27mm HE)
+tcStores::AddItems -- not found (27mm HE)
+Error - tcDatabase::GetObject - not found in nameToKey (27mm HE)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (27mm HE)
+tcPlatformObject::SetLoadoutCommand - bad item (27mm HE)
+Error - tcDatabase::GetObject - not found in nameToKey (27mm HE)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (27mm HE)
+tcPlatformObject::SetLoadoutCommand - bad item (27mm HE)
+Error - tcDatabase::GetObject - not found in nameToKey (27mm HE)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (27mm HE)
+tcPlatformObject::SetLoadoutCommand - bad item (27mm HE)
+Error - tcDatabase::GetObject - not found in nameToKey (27mm HE)
+Error - tcLauncher::SetChildClass - Launcher child not found in database (27mm HE)
+tcPlatformObject::SetLoadoutCommand - bad item (27mm HE)
+tcScenarioInterface::SetUnitLauncherItem - 27mm HE not compatible with unit RAF Typhoon-1, launcher 5
+tcScenarioInterface::SetUnitLauncherItem - 27mm HE not compatible with unit RAF Typhoon-2, launcher 5
+tcScenarioInterface::SetUnitLauncherItem - 27mm HE not compatible with unit RAF Typhoon-3, launcher 5
+tcScenarioInterface::SetUnitLauncherItem - 27mm HE not compatible with unit RAF Typhoon-4, launcher 5
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (roland2-site.tvm) animation obj (roland) not found (roland2-site.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+tc3DModel::Load - Model 3d\ffg7.tvm replaced bad or missing material with default
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+ò≥Z‚
+ÿ∏Z‚
+ò≥Z‚
+ÿ∏Z‚
+tc3DModel::Load - Model 3d\VLCC.tvm replaced bad or missing material with default
+ò≥Z‚
+ÿ∏Z‚
+tc3DModel::Load - Model 3d\F-22-Raptor.tvm replaced bad or missing material with default
+tc3DModel::SetupAnimation - Sensor animation param out of range (C-2A)
+tc3DModel::SetupAnimation - Sensor animation param out of range (C-2A)
+tc3DModel::Load - Model 3d\F-22-Raptor.tvm replaced bad or missing material with default
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+tc3DModel::Load - Model 3d\Super-Tanker1.tvm replaced bad or missing material with default
+tc3DModel::Load - Model 3d\Super-Tanker1.tvm replaced bad or missing material with default
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+ò`“0Ùé
+0a“0Ùé
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+tc3DModel::Load - Model 3d\Super-Tanker1.tvm replaced bad or missing material with default
+ò`“‡œ÷ú
+tc3DModel::Load - Model 3d\ffg7.tvm replaced bad or missing material with default
+
+e“∞!Ëú
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar1) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (nav_radar2) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_l) not found (burke.xml)
+LoadXmlAnimationInfo - (burke.tvm) animation obj (prop_r) not found (burke.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+tcScenarioInterface::SetUnitLauncherItem - Otomat Mk-1 not compatible with unit Shouala, launcher 0
+tcScenarioInterface::SetUnitLauncherItem - Otomat Mk-1 not compatible with unit Shouala, launcher 1
+tcScenarioInterface::SetUnitLauncherItem - 76mm HE-MOM not compatible with unit Shouala, launcher 2
+tcScenarioInterface::SetUnitLauncherItem - 40 mm L70 HE x5 not compatible with unit Shouala, launcher 3
+tcScenarioInterface::SetUnitLauncherItem - Otomat Mk-1 not compatible with unit Wahg, launcher 0
+tcScenarioInterface::SetUnitLauncherItem - Otomat Mk-1 not compatible with unit Wahg, launcher 1
+tcScenarioInterface::SetUnitLauncherItem - 76mm HE-MOM not compatible with unit Wahg, launcher 2
+tcScenarioInterface::SetUnitLauncherItem - 40 mm L70 HE x5 not compatible with unit Wahg, launcher 3
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+tcScenarioInterface::SetUnitLauncherItem - Otomat Mk-1 not compatible with unit Shehab, launcher 0
+tcScenarioInterface::SetUnitLauncherItem - Otomat Mk-1 not compatible with unit Shehab, launcher 1
+tcScenarioInterface::SetUnitLauncherItem - 76mm HE-MOM not compatible with unit Shehab, launcher 2
+tcScenarioInterface::SetUnitLauncherItem - 40 mm L70 HE x5 not compatible with unit Shehab, launcher 3
+tcScenarioInterface::SetUnitLauncherItem - Otomat Mk-1 not compatible with unit Shouaae, launcher 0
+tcScenarioInterface::SetUnitLauncherItem - Otomat Mk-1 not compatible with unit Shouaae, launcher 1
+tcScenarioInterface::SetUnitLauncherItem - 76mm HE-MOM not compatible with unit Shouaae, launcher 2
+tcScenarioInterface::SetUnitLauncherItem - 40 mm L70 HE x5 not compatible with unit Shouaae, launcher 3
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (rapier.tvm) animation obj (rapier) not found (rapier-towed.xml)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+∏È
+tc3DModel::Load - Model 3d\Super-Tanker1.tvm replaced bad or missing material with default
+tc3DModel::Load - Model 3d\Container Ship.tvm replaced bad or missing material with default
+LoadXmlAnimationInfo - (guppy.tvm) animation obj (Object04) not found (guppy.xml)
+LoadXmlAnimationInfo - (guppy.tvm) animation obj (Object03) not found (guppy.xml)
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+Error - tcDatabase::GetObject - not found in nameToKey (Empty string)
+tcLauncher::InitForNewChild - no seeker
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+àÒÅ8±∆d
+ ˙Å8±∆d
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar1) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (nav_radar2) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (996_radar) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_l) not found (sovremenny.xml)
+LoadXmlAnimationInfo - (t42b1ar1.tvm) animation obj (prop_r) not found (sovremenny.xml)
