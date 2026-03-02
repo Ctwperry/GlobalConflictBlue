@@ -163,7 +163,6 @@ def PatrolCircle(TI):
 # warn if non-friendly missiles nearby
 def MissileWarning(TI):
     UI = TI.GetPlatformInterface()
-    UI = TI.GetPlatformInterface()
     BB = TI.GetBlackboardInterface()
 
     iteration = TI.GetMemoryValue(1) # will return 0 first time
@@ -1548,7 +1547,6 @@ def TestClimbCmd(TI):
         UI.SetClimbDeg(angle_deg)
     else:
         TI.EndTask()
-
 
 
 

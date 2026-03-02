@@ -15,8 +15,6 @@ def BuildGroupMenu(GroupMenu, GroupInfo):
         GroupMenu.AddItem('Take control of group', 'TakeControlGroup')
         return
     
-    return
-    
     unit_count = GroupInfo.GetUnitCount()
     if (unit_count <= 0):
         return
@@ -43,13 +41,18 @@ def BuildGroupMenu(GroupMenu, GroupInfo):
     if(helo_count==unit_count):
         GroupMenu.AddItem('Helo Group: %d units' % helo_count,'')
 
-    GroupMenu.AddItem('Navigate','')
+    # Quick actions for faster command access
+    GroupMenu.AddItemUI('Quick: Set heading', 'SetHeadingGroup', 'Heading')
+    GroupMenu.AddItemUI('Quick: Add waypoint', 'AddWaypointOrderGroup', 'Datum')
+    GroupMenu.AddItem('Quick: Engage all', 'AddEngageAllOrderGroup')
+
+    GroupMenu.AddItem('Movement','')
     GroupMenu.BeginSubMenu()
 
     GroupMenu.AddItemUI('Set heading [h]','SetHeadingGroup','Heading')
 
     # Group Speed relative to fastest unit
-    GroupMenu.AddItem('GroupSpeed','')
+    GroupMenu.AddItem('Set speed','')
     GroupMenu.BeginSubMenu()
     GroupMenu.AddItem('30% [1]','RelGroupSpeed30')
     GroupMenu.AddItem('50% [2]','RelGroupSpeed50')
@@ -61,18 +64,18 @@ def BuildGroupMenu(GroupMenu, GroupInfo):
     # aircraft/helo altitude submenu, when group is aircraft/helo only
     # we add a specific altitude control submenu. 
     if(air_count == unit_count and helo_count == 0):
-        GroupMenu.AddItem('Set Altitude','')
+        GroupMenu.AddItem('Set altitude','')
         GroupMenu.BeginSubMenu()
         GroupMenu.AddItem('High','GroupAltitudeHigh')
         GroupMenu.AddItem('Medium','GroupAltitudeMedium')
-	GroupMenu.AddItem('Low','GroupAltitudeLow')
+        GroupMenu.AddItem('Low','GroupAltitudeLow')
         GroupMenu.AddItem('Very low','GroupAltitudeVeryLow') 
         GroupMenu.EndSubMenu()
     if(helo_count == unit_count):
-        GroupMenu.AddItem('Altitude','')
+        GroupMenu.AddItem('Set altitude','')
         GroupMenu.BeginSubMenu()
         GroupMenu.AddItem('Medium','GroupHeloAltitudeMedium')
-	GroupMenu.AddItem('Low','GroupHeloAltitudeLow')
+        GroupMenu.AddItem('Low','GroupHeloAltitudeLow')
         GroupMenu.AddItem('Very low','GroupHeloAltitudeVeryLow') 
         GroupMenu.EndSubMenu()
         
@@ -82,11 +85,11 @@ def BuildGroupMenu(GroupMenu, GroupInfo):
     
     BuildGroupLaunchMenu(GroupMenu, GroupInfo)
     
-    # Group Sensor Settings
-    GroupMenu.AddItem('Sensors','')
+    # Group sensor settings
+    GroupMenu.AddItem('Set sensors','')
     GroupMenu.BeginSubMenu()
-    GroupMenu.AddItem('Full Sensors','GroupAllSensors')
-    GroupMenu.AddItem('Passive Sensors','GroupPassiveSensors')
+    GroupMenu.AddItem('Active sensors','GroupAllSensors')
+    GroupMenu.AddItem('Passive sensors','GroupPassiveSensors')
     GroupMenu.AddItem('Offline','GroupOfflineSensors')
     GroupMenu.EndSubMenu()
 
@@ -95,28 +98,28 @@ def BuildGroupMenu(GroupMenu, GroupInfo):
         BuildGroupFormationMenu(GroupMenu, GroupInfo)
         BuildGroupRefuelMenu(GroupMenu, GroupInfo)
         
-        GroupMenu.AddItem('Land','')
+        GroupMenu.AddItem('Recovery','')
         GroupMenu.BeginSubMenu()
-        GroupMenu.AddItemUI('Land at selected','GroupAddLandingOrder','Target')
-        GroupMenu.AddItem('Land at homebases','GroupAddLandingHBOrder')
+        GroupMenu.AddItemUI('Recover at selected','GroupAddLandingOrder','Target')
+        GroupMenu.AddItem('Recover at home base(s)','GroupAddLandingHBOrder')
         GroupMenu.EndSubMenu()
     
     # Group orders
-    GroupMenu.AddItem('Tasks','')
+    GroupMenu.AddItem('Orders','')
     GroupMenu.BeginSubMenu()
-    GroupMenu.AddItem('Engage all','AddEngageAllOrderGroup')
-    GroupMenu.AddItem('Zig-zag patrol','AddPatrolOrderGroup')
+    GroupMenu.AddItem('Start engage all','AddEngageAllOrderGroup')
+    GroupMenu.AddItem('Start zig-zag patrol','AddPatrolOrderGroup')
     GroupMenu.AddItemUI('Add waypoint', 'AddWaypointOrderGroup', 'Datum')
-    GroupMenu.AddItem('Clear all tasks','ClearTasksGroup')
+    GroupMenu.AddItem('Clear orders','ClearTasksGroup')
     GroupMenu.EndSubMenu()
     
     UI = GroupInfo.GetPlatformInterface(0)
     if (UI.IsMultiplayerActive()):
-        GroupMenu.AddItem('Release control of group', 'ReleaseControlGroup')
+        GroupMenu.AddItem('Release group control', 'ReleaseControlGroup')
 
 # should be called only if this group is all fixed-wing aircraft or all helo (not mixed)
 def BuildGroupFormationMenu(GroupMenu, GroupInfo):
-    GroupMenu.AddItem('Form on','')
+    GroupMenu.AddItem('Formation','')
     GroupMenu.BeginSubMenu()
     unit_count = GroupInfo.GetUnitCount()
     for k in range(0, unit_count):
@@ -133,7 +136,7 @@ def BuildGroupRefuelMenu(GroupMenu, GroupInfo):
     if (nTankers == 0):
         return
         
-    GroupMenu.AddItem('Refuel all','')
+    GroupMenu.AddItem('Refuel on tanker','')
     GroupMenu.BeginSubMenu()
     for k in range(0, nTankers):
         tanker_name = tanker_list.GetString(k)
@@ -173,7 +176,7 @@ def BuildGroupLaunchMenu(GroupMenu, GroupInfo):
             merged_list.append(weap_list[k])
             
         
-    GroupMenu.AddItem('Engage datum with','')
+    GroupMenu.AddItem('Attack datum with','')
     GroupMenu.BeginSubMenu()
     for k in range(0, len(merged_list)):
         GroupMenu.AddItemUIWithTextParam('%s [%d]' % (merged_list[k][0], merged_list[k][1]), 'LaunchDatumGroup', 'Datum', merged_list[k][0])
@@ -190,13 +193,13 @@ def BuildGroupTargetMenu(GroupMenu, GroupInfo):
         if (UI.GetTarget() != -1):
             anyTargets = 1
         
-    GroupMenu.AddItem('Target','')
+    GroupMenu.AddItem('Targeting','')
     GroupMenu.BeginSubMenu()
-    GroupMenu.AddItemUI('Select','SelectTargetGroup','Target')
-    GroupMenu.AddItem('Clear','ClearTargetGroup')
+    GroupMenu.AddItemUI('Select target','SelectTargetGroup','Target')
+    GroupMenu.AddItem('Clear target','ClearTargetGroup')
     
     if (anyTargets != 0):
-        GroupMenu.AddItem('Attack', 'AttackTargetGroup')
+        GroupMenu.AddItem('Attack target', 'AttackTargetGroup')
     GroupMenu.EndSubMenu()
     
     
