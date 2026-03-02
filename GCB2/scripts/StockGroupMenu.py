@@ -15,8 +15,6 @@ def StocksBuildGroupMenu(GroupMenu, GroupInfo):
         GroupMenu.AddItem('Take control of group', 'TakeControlGroup')
         return
     
-    return
-    
     unit_count = GroupInfo.GetUnitCount()
     if (unit_count <= 0):
         return
@@ -65,14 +63,14 @@ def StocksBuildGroupMenu(GroupMenu, GroupInfo):
         GroupMenu.BeginSubMenu()
         GroupMenu.AddItem('High','GroupAltitudeHigh')
         GroupMenu.AddItem('Medium','GroupAltitudeMedium')
-	GroupMenu.AddItem('Low','GroupAltitudeLow')
+        GroupMenu.AddItem('Low','GroupAltitudeLow')
         GroupMenu.AddItem('Very low','GroupAltitudeVeryLow') 
         GroupMenu.EndSubMenu()
     if(helo_count == unit_count):
         GroupMenu.AddItem('Altitude','')
         GroupMenu.BeginSubMenu()
         GroupMenu.AddItem('Medium','GroupHeloAltitudeMedium')
-	GroupMenu.AddItem('Low','GroupHeloAltitudeLow')
+        GroupMenu.AddItem('Low','GroupHeloAltitudeLow')
         GroupMenu.AddItem('Very low','GroupHeloAltitudeVeryLow') 
         GroupMenu.EndSubMenu()
         

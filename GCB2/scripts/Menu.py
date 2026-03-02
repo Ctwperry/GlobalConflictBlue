@@ -318,18 +318,31 @@ def AmramCreateAllianceUnitMenu(Menu, SM):
             Menu.EndSubMenu()
     Menu.EndSubMenu()
     
-def MultiplayerYieldTakeOwnership(Menu, interface):    
-    if (interface.IsMultiplayerActive()):
-        if (not interface.IsPlayerControlled()):
-            if (interface.IsAvailable()):
-                Menu.AddItem('Take control', 'TakeControl')
-                return
-            else:
-                controller = interface.GetController()
-                Menu.AddItem('Unavailable interface (%s)' % controller, '')
-                return 
+def MultiplayerYieldTakeOwnership(Menu, interface):
+    if (not interface.IsMultiplayerActive()):
+        return
+
+    Menu.AddItem('Multiplayer', '')
+    Menu.BeginSubMenu()
+    Menu.SetStayOpen(1)
+
+    if (not interface.IsPlayerControlled()):
+        if (interface.IsAvailable()):
+            Menu.AddItem('Take control', 'TakeControl')
         else:
-            Menu.AddItem('Release control', 'ReleaseControl')
+            controller = 'another player'
+            try:
+                candidate = interface.GetController()
+                if (candidate is not None) and (len('%s' % candidate) > 0):
+                    controller = candidate
+            except:
+                pass
+            Menu.AddItem('In use by %s' % controller, '')
+            Menu.AddItem('Retry control request', 'TakeControl')
+    else:
+        Menu.AddItem('Release control', 'ReleaseControl')
+
+    Menu.EndSubMenu()
         
 def NavigationCommands(Menu, interface, Selected, EditMode):
     Menu.AddItem('Navigation','');Menu.BeginSubMenu();Menu.SetStayOpen(1)
